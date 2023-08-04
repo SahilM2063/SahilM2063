@@ -69,7 +69,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SahilM2063/SahilM2063/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
 
